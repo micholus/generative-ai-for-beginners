@@ -1,4 +1,4 @@
-name: <environment-name>
+name: <ai_playground>
 channels:
  - defaults
 dependencies:
